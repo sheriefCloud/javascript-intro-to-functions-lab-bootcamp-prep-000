@@ -15,3 +15,5 @@ function logWhisper (string){
   string = whisper(string)
   console.log (string)
 }
+
+consol.log("hello")
