@@ -10,3 +10,5 @@ function logShout (string){
   string = shout(string)
   console.log (string)
 }
+
+logShout("HELLO")
