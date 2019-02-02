@@ -29,4 +29,3 @@ function sayHiToGrandma(string) {
 }
 
 console.log(sayHiToGrandma("HELLO"))
-
